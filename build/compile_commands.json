@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pi/VES/build",
-  "command": "/usr/bin/cc   -g -o CMakeFiles/Hello-DES.dir/main.c.o -c /home/pi/VES/main.c",
-  "file": "/home/pi/VES/main.c"
-}
-]

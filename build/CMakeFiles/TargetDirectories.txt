@@ -1,3 +1,0 @@
-/home/pi/VES/build/CMakeFiles/rebuild_cache.dir
-/home/pi/VES/build/CMakeFiles/edit_cache.dir
-/home/pi/VES/build/CMakeFiles/Hello-DES.dir
