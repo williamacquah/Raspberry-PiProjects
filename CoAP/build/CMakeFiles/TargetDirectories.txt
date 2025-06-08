@@ -1,4 +1,0 @@
-/home/pi/VES/CoAP/build/CMakeFiles/rebuild_cache.dir
-/home/pi/VES/CoAP/build/CMakeFiles/edit_cache.dir
-/home/pi/VES/CoAP/build/CMakeFiles/coap-client-imd.dir
-/home/pi/VES/CoAP/build/CMakeFiles/coap-server-imd.dir
